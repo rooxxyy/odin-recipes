@@ -1,0 +1,20 @@
+#main-title {
+    font-family: Monaco, "Times New Roman", sans-serif;
+    font-size: 50px;
+    color: pink;
+    font-weight: 700;
+}
+
+.info-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.recipe-name {
+    font-family: Monaco, "Times New Roman", sans-serif;
+    font-size: 35px;
+    color: pink;
+    font-style: italic;
+    font-weight: bold;
+}
