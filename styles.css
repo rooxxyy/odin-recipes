@@ -1,14 +1,27 @@
 #main-title {
     font-family: Monaco, "Times New Roman", sans-serif;
-    font-size: 50px;
+    font-size: 70px;
     color: pink;
     font-weight: 700;
+    margin-bottom: 30px;
+    padding: auto;
+    text-align: center;
+}
+
+#question {
+    font-family: Monaco, "Times New Roman", sans-serif;
+    padding: 20px;
+    margin: auto;
+    color: blueviolet;
+
 }
 
 .info-title {
+    font-family: Monaco, "Times New Roman", sans-serif;
     font-size: 30px;
     font-weight: bold;
     color: blueviolet;
+    text-align: center;
 }
 
 .recipe-name {
@@ -18,3 +31,4 @@
     font-style: italic;
     font-weight: bold;
 }
+
