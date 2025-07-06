@@ -1,3 +1,3 @@
 # odin-recipes
 
-This is a simple recipe wib site.
+This is a simple recipe web site.
